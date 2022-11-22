@@ -31,7 +31,7 @@ Na računalnik si naloži Arduino IDE in Ableton live trial.
 + [TP4056 polnilec za litijeve baterije](https://www.amazon.de/-/en/Lithium-Charging-Over-discharge-Protective-TP4056-Power/dp/B018Y1ZASI/ref=sr_1_9?crid=1OB6EM7Y0VB5T&keywords=tp4056&qid=1668514592&sprefix=tp4056%2Caps%2C99&sr=8-9)
 + [Step-Up konverter](https://www.amazon.de/-/en/DollaTek-Multifunctional-Lithium-Converter-Regulator/dp/B08HQQ32M2/ref=sr_1_3?crid=Y254K9RUGF5V&keywords=step+up+5v&qid=1668516195&sprefix=step+up+5v%2Caps%2C222&sr=8-3)  
 
-## 2. dan / 17h-20h, 23.11
+## 2. dan / 17h-20h, 23.11.
 
 + Max for Live patch serijska komunikacija
 + Max for Live patch MQTT
