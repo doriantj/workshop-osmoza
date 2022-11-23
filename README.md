@@ -10,7 +10,9 @@ Na računalnik si naloži Arduino IDE in Ableton live trial.
 + [Arduino IDE](https://www.arduino.cc/en/software)   
 + [Ableton Live trial](https://www.ableton.com/en/trial/)    
 
-[P5 live coding](https://teddavis.org/p5live/)  
+## Prezentacija / slideshow
+
++ [Google slides](https://docs.google.com/presentation/d/1UfbML1kRNah43COHCqp7V_1kzYgMn4xAKRoEooQ-lUc/edit?usp=sharing)
 
 ## 1. Dan / 17h-20h, 22.11.
 
